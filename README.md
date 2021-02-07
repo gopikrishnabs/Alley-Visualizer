@@ -2,7 +2,9 @@
 
 PROBLEM STATEMENT:
 
-As Every one knows the major problem for travelling unknown places is that they dont know how to find the path to reach their destination.This project tries to give the solution to this problem by providing the shortest path from the source to the destination which user selects in the grid. One can implement it in JS but i had a constraint of using only python from college so it may not be Visualize things as good as CSS. But PYgame Module also tries to provide an optimal technique.
+As Every one knows the major problem for travelling unknown places is that they dont know how to find the path to reach their destination.This project tries to give the solution to this problem by providing the shortest path from the source to the destination which user selects in the grid. One can implement it in JS but i had a constraint of using only python from college so it may not Visualize things as good as CSS. But PYgame Module also tries to provide some techniques to make things Visualize optimally.
+
+I did this as a MINI PROJECT for my 5th sem in BE.
 
 ALGORITHMS:
 1. BREADTH FIRST SEARCH: Breadth First Search - Simple & Efficient Guarantees Shortest Path.
